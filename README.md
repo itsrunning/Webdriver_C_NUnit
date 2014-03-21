@@ -17,6 +17,6 @@ SET-UP INSTRUCTION
 
    * Install Selenium WebDriver Support Classes by running the command "Install-Package Selenium.Support"
 
-3.Add NUnit to the project.
+3. Add NUnit to the project.
 
   * To install NUnit, run the following command in the Package Manager Console "Install-Package NUnit"
