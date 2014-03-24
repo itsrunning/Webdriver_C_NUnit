@@ -20,3 +20,6 @@ SET-UP INSTRUCTION
 3.Add NUnit to the project.
 
   * To install NUnit, run the following command in the Package Manager Console "Install-Package NUnit"
+  
+
+4.Build the project
