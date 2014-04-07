@@ -1,6 +1,8 @@
 Webdriver_C_NUnit
 =================
 
+[![Build status](https://ci.appveyor.com/api/projects/status/imrp80th35h1tlta)](https://ci.appveyor.com/project/paramadeep/webdriver-c-nunit)
+
 REQUIRED SOFTWARES:
 
 Windows 7 OS, Microsoft Visual Studio as IDE, NUint as Unit Testing Tool, Webdriver as a Test Automation Tool
